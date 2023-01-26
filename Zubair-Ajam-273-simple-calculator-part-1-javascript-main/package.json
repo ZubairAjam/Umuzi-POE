@@ -1,0 +1,22 @@
+{
+	"name": "zubair-ajam-273-simple-calculator-part-1-javascript",
+	"version": "1.0.0",
+	"description": "simple-calculator part 1 (273) For raw project instructions see: http://syllabus.africacode.net/projects/tdd/simple-calculator-part1/",
+	"main": "index.js",
+	"scripts": {
+		"test": "jasmine"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Umuzi-org/Zubair-Ajam-273-simple-calculator-part-1-javascript.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Umuzi-org/Zubair-Ajam-273-simple-calculator-part-1-javascript/issues"
+	},
+	"homepage": "https://github.com/Umuzi-org/Zubair-Ajam-273-simple-calculator-part-1-javascript#readme",
+	"devDependencies": {
+		"jasmine": "^3.10.0"
+	}
+}

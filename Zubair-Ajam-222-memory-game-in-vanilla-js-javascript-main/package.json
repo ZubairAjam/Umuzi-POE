@@ -1,0 +1,26 @@
+{
+	"name": "node",
+	"version": "1.0.0",
+	"description": "Memory game web app (222) For raw project instructions see: http://syllabus.africacode.net/projects/memory-game/part-1/",
+	"main": "index.js",
+	"scripts": {
+		"test": "jasmine"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Umuzi-org/Zubair-Ajam-222-memory-game-in-vanilla-js-javascript.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Umuzi-org/Zubair-Ajam-222-memory-game-in-vanilla-js-javascript/issues"
+	},
+	"homepage": "https://github.com/Umuzi-org/Zubair-Ajam-222-memory-game-in-vanilla-js-javascript#readme",
+	"dependencies": {
+		"jasmine-jquery": "^2.1.1",
+		"jsdom": "^20.0.3"
+	},
+	"devDependencies": {
+		"jasmine": "^4.5.0"
+	}
+}

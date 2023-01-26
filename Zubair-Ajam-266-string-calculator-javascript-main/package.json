@@ -1,0 +1,22 @@
+{
+	"name": "zubair-ajam-266-string-calculator-javascript",
+	"version": "1.0.0",
+	"description": "string-calculator (266) For raw project instructions see: http://syllabus.africacode.net/projects/tdd/string-calculator/",
+	"main": "string_calculator.js",
+	"scripts": {
+		"test": "jasmine"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Umuzi-org/Zubair-Ajam-266-string-calculator-javascript.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Umuzi-org/Zubair-Ajam-266-string-calculator-javascript/issues"
+	},
+	"homepage": "https://github.com/Umuzi-org/Zubair-Ajam-266-string-calculator-javascript#readme",
+	"devDependencies": {
+		"jasmine": "^4.0.2"
+	}
+}

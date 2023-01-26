@@ -1,0 +1,23 @@
+{
+	"name": "zubair-ajam-224-animals-part-1-oop-basics-javascript",
+	"version": "1.0.0",
+	"description": "Animals Part 1. OOP basics (224) For raw project instructions see: http://syllabus.africacode.net/projects/oop/animals/part1/",
+	"main": "Animals.js",
+	"dependencies": {},
+	"devDependencies": {
+		"jasmine": "^4.0.2"
+	},
+	"scripts": {
+		"test": "jasmine"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Umuzi-org/Zubair-Ajam-224-animals-part-1-oop-basics-javascript.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Umuzi-org/Zubair-Ajam-224-animals-part-1-oop-basics-javascript/issues"
+	},
+	"homepage": "https://github.com/Umuzi-org/Zubair-Ajam-224-animals-part-1-oop-basics-javascript#readme"
+}

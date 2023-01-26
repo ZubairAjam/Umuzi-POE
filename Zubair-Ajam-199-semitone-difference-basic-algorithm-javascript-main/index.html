@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>JamBuddy</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="./css/style.css" />
+	</head>
+
+	<body onload="getNotes()">
+		<div class="gameBox">
+			<h1>JamBuddy</h1>
+			<button class="btn" id="btn" onclick="getNotes()">
+				Get Random Notes
+			</button>
+			<div type="number" id="notesDisplay"></div>
+			<p>Your answer should be a number between 0 and 12</p>
+			<input
+				type="number"
+				min="0"
+				max="11"
+				id="inputAnswer"
+				placeholder="Enter Answer Here"
+			/>
+			<button class="btn" id="submit" onclick="getAnswer()">
+				Submit answer
+			</button>
+
+			<div type="text" id="result"></div>
+			<button class="btn" id="revealAnswer" onclick="revealAnswer()">
+				Reveal Answer
+			</button>
+
+			<div type="text" id="explanation"></div>
+			<div class="streakAnswer" type="text" id="streak"></div>
+			<div class="streakAnswer" type="text" id="answer"></div>
+
+			<script src="./src/semitone_difference.js"></script>
+			<script src="./src//html_semitone_functions.js"></script>
+			<script src="./src//DOM_elements.js"></script>
+		</div>
+	</body>
+</html>

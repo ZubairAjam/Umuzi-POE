@@ -1,0 +1,78 @@
+body {
+	background: url(../img/amir-doreh-cHUBZFjY13g-unsplash.jpg);
+	background-size: cover;
+}
+
+.gameBox {
+	background-color: #f3f2ee;
+	width: 400px;
+	height: 80% auto;
+	margin: 1% auto;
+	padding: 10px;
+	border: 4px solid rgba(0, 0, 0, 0.281);
+	text-align: center;
+}
+
+.btn {
+	padding: 0.5em 2.5em;
+	margin: 0.2em 0.2em;
+	background-color: white;
+	text-decoration: none;
+	cursor: pointer;
+	font-size: 0.8rem;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	border-radius: 40px;
+	transition: 0.4s;
+}
+.btn:hover {
+	border: 2px solid #63c5da;
+	cursor: pointer;
+	transform: scale(1.01);
+}
+.streakAnswer {
+	display: inline-block;
+	background-color: #f3f2ee;
+	border: 2px solid rgba(0, 0, 0, 0.281);
+	border-width: 10% auto;
+	padding: 0.3em 0.3em;
+	display: centre;
+	text-emphasis: bold;
+	font-size: 1rem;
+	letter-spacing: 2px;
+}
+p {
+	display: centre;
+	padding: 0.3em 0.3em;
+	margin: 0.2em 0.2em;
+	letter-spacing: 2px;
+	border-radius: 35px;
+}
+#notesDisplay {
+	display: centre;
+	padding: 0.3em 0.3em;
+	text-emphasis: bold;
+	font-size: 1.5rem;
+	letter-spacing: 2px;
+	border-radius: 70px;
+	transition: 0.4s;
+}
+#inputAnswer {
+	display: centre;
+	padding: 0.5em 0.5em;
+	margin: 0.8em 0.8em;
+	letter-spacing: 2px;
+	border-radius: 35px;
+}
+#result {
+	display: centre;
+	padding: 0.3em 0.3em;
+	margin: 0.2em 0.2em;
+	letter-spacing: 2px;
+	border-radius: 35px;
+}
+#explanation {
+	display: centre;
+	margin: 0.8em 0.8em;
+	letter-spacing: 2px;
+}
